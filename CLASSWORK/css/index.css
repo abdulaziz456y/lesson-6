@@ -1,0 +1,63 @@
+.rezponz {
+  height: 28px;
+width: 288px;
+left: 576px;
+top: 10px;
+border-radius: undefinedpx;
+position: absolute;
+width: 288px;
+height: 28px;
+left: calc(50% - 288px/2);
+top: 10px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+/* identical to box height, or 160% */
+
+text-align: center;
+
+color: #F1D3B9;
+
+}
+
+.rezponz {
+  height: 47px;
+width: 1300px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+height: 47px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #B36050;
+border-radius: 0px;
+}
+
+.rezz {
+  height: 56px;
+width: 120px;
+left: 660px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+width: 120px;
+height: 56px;
+left: calc(50% - 120px/2);
+top: 0px;
+
+background: url(.png);
+border-radius: 0px;
+}
+
+.q1 {
+  padding: 21px  1226px 21px 172px;
+  text-decoration: none;
+  color:black ;
+  
+}
